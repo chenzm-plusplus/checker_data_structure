@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8967811b-e891-48f7-8a78-62e612227fdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/1.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/1.4/func.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/1.4/test5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/1.4/test6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/1.4/test7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/2.3/test4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/2.3/test7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/2020OOP/2.3/test8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/validMask/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLionProjects/validMask/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Androids/Chenkaiwen_News-master-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract3.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract5.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract8.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error3.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error5.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/fibonacci.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda7.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda8.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda9.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambdabad1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/nqueues.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract3.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract5.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract8.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error3.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error5.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/fibonacci.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda7.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda8.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda9.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambdabad1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/nqueues.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test3.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test5.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/var1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/var2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/var6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test3.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test5.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/var1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/var2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/var6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/lambda/lambda1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/lambda/lambda2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jacc/Decaf.jacc" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jacc/Decaf.jacc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jflex/Decaf.jflex" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jflex/Decaf.jflex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/2019hw02.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/2019hw02.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/QTExcelTest.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/QTExcelTest.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/ask/widget.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/ask/widget.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/askform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/askform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/askform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/askform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/askform.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/askform.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/test.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/test.pro" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/checkPA1_2$check.coverage" NAME="check Coverage Results" MODIFIED="1539873240304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/checkPA1_2$b.coverage" NAME="b Coverage Results" MODIFIED="1539694204380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="338053846">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1164" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="910702777">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/b.py" />
+        <option value="$PROJECT_DIR$/check.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="checkPA1-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkPA1-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.check">
+    <configuration name="b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="checkPA1-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="checkPA1-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.b" />
+      <item itemvalue="Python.check" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.check" />
+        <item itemvalue="Python.b" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8967811b-e891-48f7-8a78-62e612227fdf" name="Default Changelist" comment="" />
+      <created>1539692789752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539692789752</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
